@@ -1,1 +1,0 @@
-img = cv2.resize(img,(720,1280))
